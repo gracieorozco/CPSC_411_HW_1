@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">411_HW_1</string>
+    <string name="text">min &lt;= hour &amp;&amp; hour &gt;= max</string>
 </resources>
